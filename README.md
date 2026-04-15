@@ -19,7 +19,7 @@ Focused on configuring a virtual machine, capturing network activiy and analysin
 * Search Engine (Google Chrome)
 
 ## [Dynamic Host Configuration Protocol](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Dynamic_Host_Configuration_Protocol.pdf)
-Focused on practical skill development for virtual machines and Wireshark network analysis through observing specific protocol types and tracking packet exchanges through a client and server on two separate machines which I created in Python.
+Focused on practical skill development for virtual machines and Wireshark network analysis through observing specific protocol types and tracking packet exchanges through a client and server on two separate machines which I created in Python. This includes two python scripts (in this repository) to run a simple [server]() and [client] to test socket and port numbers.
 
 #### Applications and Tools:
 * Ubuntu Linux
@@ -28,6 +28,7 @@ Focused on practical skill development for virtual machines and Wireshark networ
 * Python
 * VMware
 * Wireshark
+* Visual Studio Code
 
 ## [Advanced Network Protocols](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Advanced_Network_Protocols.pdf)
 Focused on distinguishing between network device types, parts of virtual and pysical networks, testing client-server communication, examining packed exchanges stimulated by me and understanding error detection.
