@@ -19,7 +19,7 @@ Focused on configuring a virtual machine, capturing network activiy and analysin
 * Search Engine (Google Chrome)
 
 ## [Dynamic Host Configuration Protocol](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Dynamic_Host_Configuration_Protocol.pdf)
-Focused on practical skill development for virtual machines and Wireshark network analysis through observing specific protocol types and tracking packet exchanges through a client and server on two separate machines which I created in Python. This includes two python scripts (in this repository) to run a simple [server]() and [client]() to test socket and port numbers.
+Focused on practical skill development for virtual machines and Wireshark network analysis through observing specific protocol types and tracking packet exchanges through a client and server on two separate machines which I created in Python. This includes two python scripts (in this repository) to run a simple [server](https://github.com/DustinZCrawford/Networking-and-Telecommunication/blob/main/ServerTCPEcho-1.py) and [client](https://github.com/DustinZCrawford/Networking-and-Telecommunication/blob/main/ClientTCPEcho-1.py) to test socket and port numbers.
 
 #### Applications and Tools:
 * Ubuntu Linux
